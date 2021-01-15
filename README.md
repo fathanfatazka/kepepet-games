@@ -1,9 +1,9 @@
-# kepepet-games
+# Kepepet...
 
 ## Story
 Kumpulan alien dengan menggunakan UFO berusaha menginvasi bumi. Namun, manusia cukup cerdas untuk menghalangi invasi alien. Mereka membangun rintangan bagi alien sebelum dapat menginvasi bumi. Ditambah, perjalanan yang begitu panjang oleh para alien membuat UFO yang mereka gunakan mengalami beberapa kerusakan. Adanya gravitasi bumi membuat UFO senantiasa tertarik ke permukaan bumi. Kini, alien berusaha dalam menghadapi rintangan yang diberikan manusia untuk dapat menginvasi bumi.
 
-# Description and Goals
+## Description and Goals
 Permainan merupakan endless game, sehingga pemenang ialah yang mendapatkan score dengan jumlah paling tinggi. Dan bertujuan untuk menghindari rintangan pipa tanpa jatuh ke permukaan
 
 ## How to Play
